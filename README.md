@@ -36,7 +36,7 @@ export TELEGRAM_BOT_TOKEN="paste-your-token-here"
 export OWNER_ID="123456789"
 export ADMIN_ID="123456789"
 export BINANCE_PAY_ID="your-pay-id"
-python gxprivetbot.py
+python proxyshop.py
 ```
 
 ## Deploy to Render
